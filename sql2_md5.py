@@ -1,8 +1,7 @@
 '''
-I attempted to create a C program first. It didn't go well. So, I returned to my comfort zone with Python.
-    * This program was created and ran on my WIN11 machine, using python v 3.11.3
-    * I elected to use hashlib since it is part of the Standard Library.
-    * I included time for curiosities sake.
+* This program was created and ran on my WIN11 machine, using python v 3.11.3
+* I elected to use hashlib since it is part of the Standard Library.
+* I included time for curiosities sake.
 
 For simplicity, the input string to be hashed is just an incrementing `int` (str_in), converted to `str`.
 
